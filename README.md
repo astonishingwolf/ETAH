@@ -6,5 +6,5 @@ The datasets was taken from kaggle
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 Here are somecreenshots to show its working
 Before
-![Image of Yaktocat](https://drive.google.com/file/d/1MPLehqgO3lgU0mBOPPg9zbphGfdDJyY1/view)
+
 After
