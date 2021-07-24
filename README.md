@@ -6,6 +6,6 @@ The datasets was taken from kaggle
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 Here are somecreenshots to show its working           
 **Before**              
-![Screenshot](Capture2.png)               
+![Screenshot](./Images/Capture2.png)               
 **After**       
-![Screenshot](Capture7.png)
+![Screenshot](./Images/Capture7.png)
